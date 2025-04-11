@@ -25,3 +25,4 @@ slots:
             children:
               - components/ordersTable.yml
               - components/form.yml
+              - components/heading.yml
